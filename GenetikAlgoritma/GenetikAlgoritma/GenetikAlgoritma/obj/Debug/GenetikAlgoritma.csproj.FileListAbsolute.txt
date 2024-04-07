@@ -1,0 +1,40 @@
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\C#\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma_213301081\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\90536\Desktop\3.sınıf\2.donem\yapay zeka\GenetikAlgoritma\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
